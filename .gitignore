@@ -45,3 +45,4 @@ bower_components/
 build/
 dist/
 maps/
+client/js/bundle
